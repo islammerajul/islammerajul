@@ -96,11 +96,11 @@ Hi guys! This is me Md.Maraj-ul-islam. I am an experienced Mobile Application De
 
 <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AppsDevMaruf)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islammerajul)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AppsDevMaruf)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=islammerajul)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AppsDevMaruf&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=islammerajul&show_icons=true)
 
 <br/>
 
