@@ -1,20 +1,20 @@
 <h1> 👋 Hello, I'm Md.Maraj-ul-islam </h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AppsDevMaruf&label=Profile%20views&color=129e00&style=plastic" alt="AppsDevMaruf"/> </p>
+
 
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/AppsDevMaruf" data-color-scheme="no-preference: light_high_contrast; light: dark; dark: dark_high_contrast;" data-size="large" data-show-count="true" aria-label="Follow @AppsDevMaruf on GitHub">Follow @islammerajul </a>
+<a class="github-button" href="https://github.com/islammerajul" data-color-scheme="no-preference: light_high_contrast; light: dark; dark: dark_high_contrast;" data-size="large" data-show-count="true" aria-label="Follow @islammerajul on GitHub">Follow @islammerajul </a>
 
-I am a Mobile Application Developer And Content Creator  
-🏠 &nbsp; Living: Bashundhara RA, Dhaka-1229 <br/>
+I am a Mobile Application Developer.  
+🏠 &nbsp; Living: West Rajabazar, Tejgaon, Dhaka-1215 <br/>
 ### 📫 &nbsp;  How To Reach Me **maraj15-10290@diu.edu.bd**
 
 <!-- Contact me section starts here  -->
 
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
 [<img align="left" alt="website" title="Gmail" width="45" hspace="5" src="./images/gmail.svg" />][gmail]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
+
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 <br />
@@ -27,10 +27,10 @@ I am a Mobile Application Developer And Content Creator
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application Developer with 3+ years of hands-on experience in the Mobile Apps Industry.
+Hi guys! This is me Md.Maraj-ul-islam. I am an experienced Mobile Application Developer.
 </p>
 
-<img src="https://raw.githubusercontent.com/AppsDevMaruf/JahidHasanCo/output/github-contribution-grid-snake.svg">
+
 <br />
 <!-- about-me section ends here  -->
 
@@ -41,7 +41,7 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 #### Key Skills
 <img align="left" alt="Java" title="Java" width="45" hspace="5" src="./images/java.svg" />
 
-<img align="left" alt="XML" title="XML" width="45" hspace="5" src="./images/xml.png" />
+
 
 <img align="left" alt="Android" title="Android" width="45" hspace="5" src="./images/android.svg" />
 
@@ -57,10 +57,6 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 <br />
 
 <img align="left" alt="SQL" title="SQL" width="45" hspace="5" src="./images/sql.png" />
-
-<img align="left" alt="Map" title="Android" width="45" hspace="5" src="./images/map.png" />
-
-<img align="left" alt="Sensor" title="Sensor" width="45" hspace="5" src="./images/sensor.png" />
 
 
 <img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />
@@ -79,16 +75,12 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 #### Other Skills & Videos:
 
 <img align="left" alt="c" title="c " width="45" hspace="5" src="./images/c.svg" />
-<img align="left" alt="Python" title="cPython " width="45" hspace="5" src="./images/python.svg" />
+<img align="left" alt="c++" title="c++ " width="45" hspace="5" src="./images/c++.svg" />
 
-
-<img align="left" alt="Filmora" title="Filmora" width="45" hspace="5" src="./images/filmora.png" />
 
 <img align="left" alt="Figma" title="Figma" width="45" hspace="5" src="./images/figma.png" />
 
-<img align="left" alt="XD" title="XD" width="45" hspace="5" src="./images/xd.png" />
 
-<img align="left" alt="Adobe Premiere pro" title="Adobe Premiere pro" width="45" hspace="5" src="./images/premiere-pro.png" />
 <br/>
 <br/>
 <br/>
@@ -147,8 +139,10 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 1. B.Sc. in Computer Science & Engineering  
    Daffodil International University
      Dhaka, Bangladesh.
-3. Higher Secondary Certificate (HSC)  
-    Khilgaon,Dhaka-1219  
+2. Higher Secondary Certificate (HSC)  
+    Dinajpur Government College
+3. Secondary School Certificate (SSC)  
+    Dinajpur Zilla School
  
 
 <br />
@@ -183,9 +177,9 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 ### 🏅Licenses & Certifications :
 
 <img align="left" alt="Createive IT" title="FigCreateive ITma" width="45" hspace="5" src="./images/creative.png" />
-- Android Application Development - Creative It<br />
-<img align="left" alt="PencilBox" title="PencilBox" width="45" hspace="5" src="./images/pencilbox.png" />
--Professional Android Application Development - PencilBox Training Institute
+- Android Application Development - BASIS(SEIP project)<br />
+<img align="left" alt="BITM" title="BITM" width="45" hspace="5" src="./images/pencilbox.png" />
+-Professional Android Application Development - BASIS Institute of Technology & Management (BITM)
 
 ---
 <br />
@@ -198,12 +192,12 @@ All rights reserved by Maruf Alam @2022
 
 <!-- Links section starts here -->
 
-[website]: http://www.marufalam.com/
-[gmail]: https://mail.google.com/mail/ca/u/0/#inbox/141b796e773c4f19
-[youtube]: https://www.youtube.com/c/MarufAlamPorosh/
-[facebook]: https://www.facebook.com/marufalam.porosh.90/
-[linkedin]: https://www.linkedin.com/in/devmarufalam/
-[github]: https://github.com/marufalam120
+[website]: https://sites.google.com/diu.edu.bd/mdmaraj-ul-islam
+[gmail]: https://mail.google.com/mail/u/1/#inbox
+
+[facebook]: https://www.facebook.com/mdmerajul.islam.3591267/
+[linkedin]: https://www.linkedin.com/in/md-maraj-ul-islam-2070b0249/
+[github]: https://github.com/islammerajul#--about-me
 
 
 
