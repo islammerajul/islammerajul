@@ -105,33 +105,7 @@ Hi guys! This is me Md.Maraj-ul-islam. I am an experienced Mobile Application De
 <br/>
 
 <!-- github stats ends here  -->
-  <!-- latest youtube videos starts here -->
- 
-### 🎬 &nbsp; Apps Presentation
-[![Watch the video](https://i.im.ge/2022/06/04/rWo83q.th.png)](https://youtu.be/ohZEJSM6gwA)
-[![Krisok Bhai](https://i.im.ge/2022/06/12/rHp2oD.th.png)](https://youtu.be/K-_3vI1bYaM)
 
-
-↪️ &nbsp; [search more videos...](https://www.youtube.com/c/MarufAlamPorosh/l)
-
-<br/>
-
-<!-- latest youtube videos ends here -->
-
-<!-- other skills and my videos for computer science section starts here  -->
-
-<!-- work experience section starts here  -->
-
-### 💼 &nbsp; Employment History
-
-| Position            | Institute                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Android developer   | Hamdard University Bangladesh | 4 Months | Dhaka, Bangladesh |
-| Android developer   | Tiger Soft BD | On Going | Gulsan 1,Dhaka, Bangladesh |
-
-
-<br />
-<!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
 ### 👨🏻‍🎓 &nbsp; Education
