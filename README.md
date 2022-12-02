@@ -158,7 +158,7 @@ Hi guys! This is me Md.Maraj-ul-islam. I am an experienced Mobile Application De
 ---
 <br />
 Thanks for going through my Portfolio.
-All rights reserved by Maruf Alam @2022
+All rights reserved by Md.Maraj-ul-islan @2022
 
 ---
 
