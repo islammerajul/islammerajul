@@ -1,9 +1,3 @@
-<!-- banner image starts here  -->
-
-<img src="./images/banner.png" width="100%">
-<!-- banner image ends here  -->
-<a href="https://stardev.io/developers/AppsDevMaruf"><img alt="Check out AppsDevMaruf's profile on stardev.io" src="https://stardev.io/developers/AppsDevMaruf/badge/languages/locality.svg" /></a>
-
 <h1> 👋 Hello, I'm Md.Maraj-ul-islam </h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AppsDevMaruf&label=Profile%20views&color=129e00&style=plastic" alt="AppsDevMaruf"/> </p>
